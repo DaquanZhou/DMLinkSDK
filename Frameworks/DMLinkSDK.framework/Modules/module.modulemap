@@ -1,0 +1,6 @@
+framework module DMLinkSDK {
+  umbrella header "DMLinkSDK.h"
+
+  export *
+  module * { export * }
+}
